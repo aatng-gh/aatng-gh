@@ -1,4 +1,4 @@
-# Aaron Nguyen ❖ @aatng-gh
+# Aaron Nguyen
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aaronthangnguyen/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-blueviolet?logo=github)](https://github.com/aatng-gh/)
